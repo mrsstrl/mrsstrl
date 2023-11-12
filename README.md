@@ -1,6 +1,6 @@
 <h1 align="center"> Hello! Servus! Salut! こんにちは!</h1>
 
-<p align="center"><img src="https://giphy.com/embed/3kRa3yvntxlFm" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/kawaii-kitty-cat-paws-3kRa3yvntxlFm">via GIPHY</a></p>"/></p>
+<p align="center"><img src="https://giphy.com/embed/3kRa3yvntxlFm" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/kawaii-kitty-cat-paws-3kRa3yvntxlFm">via GIPHY</a></p>"
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mrsstrl)    
 
