@@ -1,1 +1,1 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrsstrl)](https://github.com/mrsstrl/github-readme-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=mrsstrl)    
