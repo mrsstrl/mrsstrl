@@ -2,6 +2,8 @@
 
 ![Kawaii Kitty](https://media.giphy.com/media/3kRa3yvntxlFm/giphy.gif)
 
+![Keyboard Cat](https://media4.giphy.com/media/LHZyixOnHwDDy/giphy.gif?cid=ecf05e478w1sghr06tfu8ltnbxcaa41t71wv3sxi9lxxjmxu&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mrsstrl)    
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrsstrl&show_icons=true&theme=ambient_gradient)
