@@ -1,6 +1,6 @@
 <h1 align="center"> Hello! Servus! Salut! こんにちは!</h1>
 
-<p align="center"><img src="[https://github.com/aagarwal1012/Animated-Text-Kit/blob/master/display/cover.gif?raw=true](https://giphy.com/gifs/kawaii-kitty-cat-paws-3kRa3yvntxlFm)"/></p>
+<p align="center"><img src="[https://github.com/aagarwal1012/Animated-Text-Kit/blob/master/display/cover.gif?raw=true]"/></p>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mrsstrl)    
 
