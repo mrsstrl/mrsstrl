@@ -1,6 +1,6 @@
 <h1 align="center"> Hello! Servus! Salut! こんにちは!</h1>
 
-<p align="center"><iframe src="https://giphy.com/embed/3kRa3yvntxlFm">via GIPHY</a></p>
+![Kawaii Kitty](https://media.giphy.com/media/3kRa3yvntxlFm/giphy.gif)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mrsstrl)    
 
