@@ -1,4 +1,4 @@
-<h1 align="center"> Hello! Guten Tag! Salut! こんにちは!</h1>
+<h1 align="center"> Hello! Servus! Salut! こんにちは!</h1>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mrsstrl)    
 
