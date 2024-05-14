@@ -3,7 +3,6 @@
 ![Kawaii Kitty](https://media.giphy.com/media/3kRa3yvntxlFm/giphy.gif)
 
 ![Keyboard Cat](https://media4.giphy.com/media/LHZyixOnHwDDy/giphy.gif?cid=ecf05e478w1sghr06tfu8ltnbxcaa41t71wv3sxi9lxxjmxu&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-![Dog](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Fuc21xYjRzeTV5MTJ1YXhyMHMzdjYwYzdkaGRocXpqZTVlOTFlMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y853jRq5TrMHVGn4nl/giphy-downsized-large.gif)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mrsstrl)    
 
