@@ -12,23 +12,4 @@
   
 ![mrsstrl](https://count.getloli.com/get/@mrsstrl?theme=rule34)
 
-name: Update Space Shooter Game
-
-on:
-  schedule:
-    - cron: '0 0 * * *'  # Daily at midnight UTC
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  update-game:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: czl9707/gh-space-shooter@v1
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          output-path: 'game.gif'
-          strategy: 'random'
+![My GitHub Game](game.gif)
